@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frandiox/gulp-vue-compiler.git"
+    "url": "git+https://github.com/doArcanjo/gulp-vue-compiler.git"
   },
   "keywords": [
     "vue",
@@ -29,6 +29,6 @@
     "babel-core": "^6.26.0",
     "gulp-util": "^3.0.8",
     "through2": "^2.0.3",
-    "vue-component-compiler": "git+ssh://git@github.com/frandiox/vue-component-compiler.git"
+    "vue-component-compiler": "^3.0.0"
   }
 }
